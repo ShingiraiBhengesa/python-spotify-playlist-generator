@@ -2,15 +2,11 @@
 A simple script that takes your liked videos on Youtube, and generates a Spotify playlist based on the song in your liked videos.
 
 ## Table of Contents
-* [Video](#Video)
 * [Technologies](#Technologies)
 * [Setup](#LocalSetup)
 * [ToDo](#ToDo)
 * [Troubleshooting](#Troubleshooting)
 
-## Video
-Check out the youtube video for a step by step walk through 
-[Youtube Video]
 
 ## Technologies
 * [Youtube Data API v3]
